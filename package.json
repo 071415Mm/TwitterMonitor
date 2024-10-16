@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "twitter.js": "^0.14.0"
+  },
+  "type": "module"
+}
